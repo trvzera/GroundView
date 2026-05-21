@@ -1,3 +1,10 @@
+> **EN:** First SwiftUI app with reusable views (`BtnPill`, `Usuarios`) composed on a single screen. Built in Xcode.
+>
+> *The rest of this README is in Brazilian Portuguese (pt-BR).*
+
+
+---
+
 # GroundView
 
 Meu **primeiro contato com SwiftUI**: app simples para montar a interface com **elementos reutilizáveis** — cada bloco de usuário e cada botão são views próprias, usadas várias vezes com cores e textos diferentes.
