@@ -20,3 +20,7 @@ Código em `GroundView/ContentView.swift` e `GroundView/GroundViewApp.swift`.
 ## Como executar
 
 Abra `GroundView.xcodeproj` no Xcode e rode no simulador ou dispositivo (▶︎).
+
+## PREVIEW
+
+<img src=./preview></img>
